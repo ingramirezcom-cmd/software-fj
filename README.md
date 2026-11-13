@@ -54,9 +54,11 @@ PENDIENTE --confirmar--> CONFIRMADA --procesar--> PROCESADA
     +------cancelar----------+--> CANCELADA
 ```
 
+
+Curso de Programación (213023) - Fase 4, Componente práctico - UNAD
+
 Una reserva procesada no se puede cancelar, y una que no está confirmada no se puede procesar.
 
 ## Integrantes del equipo
-
-- Nombre completo – código – rol
-- ...
+- Eladio Ramírez Sánchez
+- Rubiney Diaz Martinez
